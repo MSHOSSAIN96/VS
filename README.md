@@ -1,1 +1,1 @@
-# VS
+# Verification of Synchronous FIFO
